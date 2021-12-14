@@ -1,6 +1,6 @@
 ---
 title: ''
-output: html_notebook
+output: rmarkdown::github_document
 ---
 
 # Data Visualization in R 
